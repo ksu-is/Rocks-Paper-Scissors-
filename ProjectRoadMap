@@ -1,3 +1,4 @@
 Create a loop and function and method with rock, paper, or scissors using the actual rules for the game. 
 Add two users and possibly one user and an AI companion that plays against the user.
 Finish and clean up project to have cleaner and more vibrant appearances. 
+Commit changes to allow instead of just playing against the AI, to play against another user. 
